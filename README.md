@@ -8,7 +8,7 @@ Original blogpost describing the application of these shortcuts can be found [he
   
   + [Assess risk for Shoulder Dystocia](https://www.icloud.com/shortcuts/ef3575a950f34fc1b3eebc55ae221c77) 
   
-  + [Create custom look-up table (OB Meds example)](https://www.icloud.com/shortcuts/0177490a13b94af0b2f8af2c534584d8)  
+  + [Create custom look-up table (OB Meds example)](https://www.icloud.com/shortcuts/12fa710280fc4e8c80919ba0c191eaa2)  
   
   
   Disclaimer [here](https://github.com/berghe01/Siri-Shortcuts/blob/master/Disclaimer)
