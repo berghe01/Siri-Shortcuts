@@ -4,11 +4,11 @@ Links to Siri Shortcuts
 Links to 3 Siri shortcuts.
 Original blogpost describing the application of these shortcuts can be found [here](https://ericbergh.netlify.com/post/medical-automation-with-javascript-and-siri-shortcuts-in-ios/)
 
-  + [Calculate Middle Cerebral Artery Peak Systolic Velocity MoM](https://www.icloud.com/shortcuts/09e739c695364f4b8dd8bc553de50cbc)  
+  + [Calculate Middle Cerebral Artery Peak Systolic Velocity MoM](https://www.icloud.com/shortcuts/6f0d9bc61dda4ca398a79203930ac075)  
   
-  + [Assess risk for Shoulder Dystocia](https://www.icloud.com/shortcuts/ef3575a950f34fc1b3eebc55ae221c77) 
+  + [Assess risk for Shoulder Dystocia](https://www.icloud.com/shortcuts/985a0809b0a34e1e8027c63ab44ea138) 
   
-  + [Create custom look-up table (OB Meds example)](https://www.icloud.com/shortcuts/7a5dbeddd5094c6db0eb8d3b42d5ac61)  
+  + [Create custom look-up table (OB Meds example)](https://www.icloud.com/shortcuts/61245398888c4c579f33bd3b1d277c19)  
   
   
   Disclaimer [here](https://github.com/berghe01/Siri-Shortcuts/blob/master/Disclaimer)
