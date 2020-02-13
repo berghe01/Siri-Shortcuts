@@ -10,3 +10,6 @@ Original blogpost describing the application of these shortcuts can be found [he
   
   + [Create custom look-up table (OB Meds example)](https://www.icloud.com/shortcuts/0177490a13b94af0b2f8af2c534584d8)  
   
+  
+  Disclaimer [here](https://github.com/berghe01/Siri-Shortcuts/blob/master/Disclaimer)
+  
